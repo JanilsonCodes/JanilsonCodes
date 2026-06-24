@@ -145,10 +145,18 @@ Backend Scaling (Queues • Distributed Systems)
 
 ## 📊 GITHUB STATS
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JanilsonCodes&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanilsonCodes&layout=compact&theme=tokyonight"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JanilsonCodes&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanilsonCodes&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JanilsonCodes&theme=tokyonight"/>
