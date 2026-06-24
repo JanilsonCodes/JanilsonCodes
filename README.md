@@ -211,7 +211,7 @@ React Query • SWR • GraphQL • Apollo Client • System Design • Clean Ar
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/JanilsonCodes">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
@@ -219,7 +219,7 @@ React Query • SWR • GraphQL • Apollo Client • System Design • Clean Ar
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:janilsondev01@gmail.com">
 <img src="https://img.shields.io/badge/Email-FF0055?style=for-the-badge&logo=gmail"/>
 </a>
 
