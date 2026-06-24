@@ -111,9 +111,8 @@ React Query • SWR • GraphQL • Apollo Client • System Design • Clean Ar
 
 ---
 
-### 💡 WebSolutions
+### 💡 WebSolutions - My startup
 
-### 💡 WebSolutions
 
 <table>
   <tr>
