@@ -151,7 +151,7 @@ Backend Scaling (Queues • Distributed Systems)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanilsonCodes&theme=tokyonight"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JanilsonCodes&theme=tokyonight"/>
 </p>
 
 ---
