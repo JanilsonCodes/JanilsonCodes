@@ -72,22 +72,20 @@ React Query • SWR • GraphQL • Apollo Client • System Design • Clean Ar
 
 ### 🚀 Next Steps
 
-![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws)
-![EC2](https://img.shields.io/badge/EC2-0A0A0A?style=for-the-badge&logo=amazonaws)
-![S3](https://img.shields.io/badge/S3-0A0A0A?style=for-the-badge&logo=amazonaws)
-![Lambda](https://img.shields.io/badge/Lambda-0A0A0A?style=for-the-badge&logo=awslambda)
+☁️ **Cloud Architecture**
+→ AWS (EC2 • S3 • Lambda • RDS)
 
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0A0A?style=for-the-badge&logo=kubernetes)
+🐳 **Containerization**
+→ Docker • Kubernetes • Microservices
 
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions)
+⚙️ **DevOps Pipeline**
+→ CI/CD • GitHub Actions • Automation
 
-![Claude AI](https://img.shields.io/badge/Claude-0A0A0A?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-0A0A0A?style=for-the-badge&logo=openai)
+🤖 **AI Systems**
+→ Claude AI • OpenAI APIs • AI Agents
 
-![Microservices](https://img.shields.io/badge/Microservices-0A0A0A?style=for-the-badge)
-![Queues](https://img.shields.io/badge/Queues-0A0A0A?style=for-the-badge)
-![Distributed%20Systems](https://img.shields.io/badge/Distributed_Systems-0A0A0A?style=for-the-badge)
+⚡ **Scalable Backend**
+→ Queues • Event-driven Systems • Distributed Architecture
 
 ## 🚀 PROJECTS
 
@@ -120,7 +118,7 @@ React Query • SWR • GraphQL • Apollo Client • System Design • Clean Ar
 <table>
   <tr>
     <td width="80px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg" 
+      <img src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" 
            width="60"
            style="background-color:white; padding:6px; border-radius:8px;" />
     </td>
