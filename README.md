@@ -174,7 +174,7 @@ React Query • SWR • GraphQL • Apollo Client • System Design • Clean Ar
       <img src="https://github-readme-stats.vercel.app/api?username=JanilsonCodes&show_icons=true&theme=tokyonight" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanilsonCodes&layout=compact&theme=tokyonight" />
+      <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=JanilsonCodes&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=JanilsonCodes&layout=compact&theme=tokyonight)" />
     </td>
   </tr>
 </table>
